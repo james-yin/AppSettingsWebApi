@@ -1,0 +1,14 @@
+D:\dev\AppSettingsWebApi\bin\Debug\netcoreapp2.2\AppSettingsWebApi.deps.json
+D:\dev\AppSettingsWebApi\bin\Debug\netcoreapp2.2\AppSettingsWebApi.runtimeconfig.json
+D:\dev\AppSettingsWebApi\bin\Debug\netcoreapp2.2\AppSettingsWebApi.runtimeconfig.dev.json
+d:\dev\AppSettingsWebApi\bin\Debug\netcoreapp2.2\AppSettingsWebApi.dll
+d:\dev\AppSettingsWebApi\bin\Debug\netcoreapp2.2\AppSettingsWebApi.pdb
+d:\dev\AppSettingsWebApi\obj\Debug\netcoreapp2.2\AppSettingsWebApi.csprojAssemblyReference.cache
+d:\dev\AppSettingsWebApi\obj\Debug\netcoreapp2.2\AppSettingsWebApi.csproj.CoreCompileInputs.cache
+d:\dev\AppSettingsWebApi\obj\Debug\netcoreapp2.2\AppSettingsWebApi.RazorAssemblyInfo.cache
+d:\dev\AppSettingsWebApi\obj\Debug\netcoreapp2.2\AppSettingsWebApi.RazorAssemblyInfo.cs
+d:\dev\AppSettingsWebApi\obj\Debug\netcoreapp2.2\AppSettingsWebApi.AssemblyInfoInputs.cache
+d:\dev\AppSettingsWebApi\obj\Debug\netcoreapp2.2\AppSettingsWebApi.AssemblyInfo.cs
+d:\dev\AppSettingsWebApi\obj\Debug\netcoreapp2.2\AppSettingsWebApi.RazorTargetAssemblyInfo.cache
+d:\dev\AppSettingsWebApi\obj\Debug\netcoreapp2.2\AppSettingsWebApi.dll
+d:\dev\AppSettingsWebApi\obj\Debug\netcoreapp2.2\AppSettingsWebApi.pdb
