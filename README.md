@@ -8,5 +8,6 @@ https://andrewlock.net/how-to-use-the-ioptions-pattern-for-configuration-in-asp-
 ## unit test
 
 https://mitch.codes/net-core-manually-instantiating-ioptions-for-unit-testing/
+https://stackoverflow.com/questions/48017390/how-to-get-an-instance-of-iconfiguration-in-asp-net-core
 https://stackoverflow.com/questions/41399526/how-to-initialize-ioptionappsettings-for-unit-testing-a-net-core-mvc-service
 https://stackoverflow.com/questions/40876507/net-core-unit-testing-mock-ioptionst
