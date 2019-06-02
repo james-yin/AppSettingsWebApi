@@ -21,10 +21,16 @@ namespace AppSettingsWebApi.Controllers
 
         // GET api/values
         [HttpGet]
-        public ActionResult<FileUploadSettings> Get()
+        public IActionResult Get()
         {
             return Ok(_settings);
         }
+
+        // public ActionResult<FileUploadSettings> Get()
+        // {
+        //     return Ok(_settings);
+        // }
+
         // public ActionResult<IEnumerable<string>> Get()
         // {
         //     return new string[] { "value1", "value2" };

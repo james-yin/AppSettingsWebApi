@@ -12,3 +12,6 @@ d:\dev\AppSettingsWebApi\obj\Debug\netcoreapp2.2\AppSettingsWebApi.AssemblyInfo.
 d:\dev\AppSettingsWebApi\obj\Debug\netcoreapp2.2\AppSettingsWebApi.RazorTargetAssemblyInfo.cache
 d:\dev\AppSettingsWebApi\obj\Debug\netcoreapp2.2\AppSettingsWebApi.dll
 d:\dev\AppSettingsWebApi\obj\Debug\netcoreapp2.2\AppSettingsWebApi.pdb
+d:\dev\AppSettingsWebApi\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+d:\dev\AppSettingsWebApi\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+d:\dev\AppSettingsWebApi\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
